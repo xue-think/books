@@ -1,5 +1,3 @@
-# ReadMe
+# book-highlights
 
-This is a readme test.
-
-- [Another Test](Another_Test.md)
+- [我想和你谈谈精神病人的世界](Talking_About_the_World_of_Mental_Patients.md)
