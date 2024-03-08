@@ -8,6 +8,7 @@
 
 ## 自我接纳
 
-- [我想和你谈谈精神病人的世界](Talking_About_the_World_of_Mental_Patients.md)
 - [高敏感是种天赋](Highly_Sensitive_People_in_an_Insensitive_World.md)
+- [我想和你谈谈精神病人的世界](Talking_About_the_World_of_Mental_Patients.md)
 - [虽然会胖，还是想吃完炸鸡再睡](I_should_go_to_bed_hungry_tonight.md)
+
