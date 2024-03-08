@@ -9,4 +9,4 @@
 ## 自我接纳
 
 - [我想和你谈谈精神病人的世界](Talking_About_the_World_of_Mental_Patients.md)
-
+- [高敏感是种天赋](Highly_Sensitive_People_in_an_Insensitive_World.md)
