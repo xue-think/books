@@ -1,6 +1,6 @@
 # 不被父母控制的人生 
 
-## Favorite Topics
+# 🏔 Top Lessons
 
 ###  toxic shame
 
@@ -245,7 +245,8 @@
 - 我有权做真实的自己。
 
 
-## Highlights & Notes
+# 🖍 Highlights & Notes
+
 
 > 她的父亲就像一个非常年幼的孩子，浮躁，以自我为中心，完全不顾及自己对孩子的影响。在情绪层面，他就像个大号的孩子——最多14岁。
 
