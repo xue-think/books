@@ -13,3 +13,6 @@
 - [虽然会胖，还是想吃完炸鸡再睡](I_should_go_to_bed_hungry_tonight.md)
 - [中年之路](The_middle_passage.md)
 
+## 好奇
+
+- [虐恋亚文化](Subculture_of_Sadomasochism.md)
