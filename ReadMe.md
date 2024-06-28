@@ -13,3 +13,6 @@
 - [虽然会胖，还是想吃完炸鸡再睡](I_should_go_to_bed_hungry_tonight.md)
 - [中年之路](The_middle_passage.md)
 
+## 关系
+
+- [多重伴侶下的安全感：依附關係、創傷理論，與知情同意的開放式關係](polysecure.md)
