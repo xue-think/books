@@ -11,8 +11,9 @@
 - [高敏感是种天赋](Highly_Sensitive_People_in_an_Insensitive_World.md)
 - [我想和你谈谈精神病人的世界](Talking_About_the_World_of_Mental_Patients.md)
 - [虽然会胖，还是想吃完炸鸡再睡](I_should_go_to_bed_hungry_tonight.md)
-- [中年之路](The_middle_passage.md)
-
+- [中年之路：人格的第二次成型](The_middle_passage.md)
+- [中年之路2：解开前半生的束缚](The_middle_passage_2.md)
+  
 ## 关系
 
 - [多重伴侶下的安全感](polysecure.md)
