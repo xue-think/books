@@ -18,7 +18,7 @@
 
 - [多重伴侶下的安全感](polysecure.md)
 
-## 社科
+## 社会调查
 
 - [SOLO女子图鉴](Aging_Solo.md)
 
