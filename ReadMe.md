@@ -22,3 +22,6 @@
 
 - [SOLO女子图鉴](Aging_Solo.md)
 
+## 小说
+
+- [在熙，烧酒，我，还有冰箱里的蓝莓与烟](Love_in_the_Big_City.md)
